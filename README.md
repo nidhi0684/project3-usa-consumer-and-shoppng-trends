@@ -4,7 +4,7 @@
 [Nidhi Mishra Ojha](https://www.linkedin.com/in/nidhimishraojha/)
 
 ### Website 
-[USA Consumer Behavior and Shopping Trends](https://cami5326.github.io/Project3-data-visualization/index.html)
+[USA Consumer Behavior and Shopping Trends](https://nidhi0684.github.io/project3-usa-consumer-and-shoppng-trends/index.html)
 
 
 ### Project Purpose and Overview
@@ -58,7 +58,7 @@ This data visualization project strives to empower businesses, policymakers, and
 - **NOTE - Successful run of Flask App is required to launch Visulization Website**
 
 #### 3. Website
-- After successful run of Flass App, launch this [website]()
+- After successful run of Flass App, launch this [website](https://nidhi0684.github.io/project3-usa-consumer-and-shoppng-trends/index.html)
 - Home Page - Landing page with links to Dashboard, Map View, About, and links to Dataset used for this project
 - About Me - Brief bio about the developer (Nidhi Ojha)
 - Dashboard - 4 visualizations showing consumer trends with dynamic views for consolidated and each shopping category
